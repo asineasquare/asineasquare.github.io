@@ -44,7 +44,7 @@ a {
   font-size: 4vw;
   text-align: center;
   font-family: 'DM Mono', monospace;
-  line-height: 2vw;
+  line-height: 10px;
   position: relative;
   width: auto;
   display: flex;

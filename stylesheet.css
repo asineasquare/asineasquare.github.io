@@ -31,7 +31,7 @@ h2 {
   font-size: 3vw;
   text-align: center;
   margin-top: auto;
-  position: fixed;
+  position: auto;
   font-family: 'DM Mono', monospace;
   width: auto;
   display: flex;
@@ -46,7 +46,7 @@ a {
   text-align: center;
   font-family: 'DM Mono', monospace;
   line-height: 10px;
-  position: fixed;
+  position: auto;
   width: auto;
   display: flex;
   justify-content: center;

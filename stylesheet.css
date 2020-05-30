@@ -45,7 +45,7 @@ a {
   text-align: center;
   font-family: 'DM Mono', monospace;
   line-height: 10px;
-  position: relative;
+  position: fixed;
   width: auto;
   display: flex;
   justify-content: center;

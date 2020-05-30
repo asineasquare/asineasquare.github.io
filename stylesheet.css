@@ -22,11 +22,11 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: auto;
+  height: 80%;
 }
 
 h2 {
-  color: red;
+  color: white;
   font-size: 3vw;
   text-align: center;
   margin-top: auto;

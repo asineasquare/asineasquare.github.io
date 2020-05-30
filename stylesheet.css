@@ -12,17 +12,18 @@ html, body {
 
 }
 h1 {
-  color: red;
+  color: #red;
   font-size: 8vw;
   text-align: center;
-  margin-top: auto;
+  margin-top: 10px;
   font-family: 'DM Mono', monospace;
-  margin-bottom: 45px;
+  line-height: 10pt;
+  position: relative;
   width: auto;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80%;
+  height: auto;
 }
 
 h2 {

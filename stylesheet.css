@@ -28,7 +28,7 @@ h1 {
 
 h2 {
   color: white;
-  font-size: 14pt;
+  font-size: 3vm;
   text-align: center;
   margin-top: auto;
   font-family: 'DM Mono', monospace;
@@ -41,7 +41,7 @@ h2 {
 
 a {
   color: white;
-  font-size: 16pt;
+  font-size: 4vm;
   text-align: center;
   font-family: 'DM Mono', monospace;
   line-height: 2vw;

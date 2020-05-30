@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 html, body {
-  background: gray;
+  background: black;
   height: 100%;
   background-image: url("");
   background-repeat: no-repeat;

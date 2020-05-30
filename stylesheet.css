@@ -19,7 +19,7 @@ h1 {
   font-family: 'DM Mono', monospace;
   line-height: 10pt;
   position: relative;
-  width: auto;
+  width: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
